@@ -5,5 +5,6 @@
     <mapping directory="$PROJECT_DIR$/Satran-" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Web-tasirimi-2-Final" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/satranc" vcs="Git" />
   </component>
 </project>
